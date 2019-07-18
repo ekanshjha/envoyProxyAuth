@@ -1,4 +1,4 @@
-# envoy-ext-authz
+# Envoy proxy authorisation
 
 ## Implementation
 
