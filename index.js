@@ -9,7 +9,7 @@ app.use((req, res, next) => {
 
   const { name, pass } = auth(req)
 
-  if(name === 'ricklee' && pass === '123456') {
+  if(name === 'john' && pass === 'doe') {
     res.status(200)
     res.end()
   } else {
